@@ -47,7 +47,7 @@ section {
     gap: 2rem;
     justify-content: center;
 }
-article {
+ article {
     flex: 1 1 100%;
 }
 article {
@@ -59,15 +59,15 @@ article {
     transition: transform 0.3s;
 }
 
-article:hover {
+/* article:hover {
     transform: scale(1.05);
-}
+} */
 
-article img {
+/* article img {
     width: 100%;
     height: auto;
     margin-bottom: 1rem;
-}
+} */
 
 nav ul {
     display: flex;

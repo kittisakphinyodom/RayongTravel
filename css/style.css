@@ -31,6 +31,12 @@ footer {
     background-color: #303030;
     color: white;
 }
+aside {
+    text-align: center;
+    padding: 1rem;
+    background-color: #a5a5a5;
+    color: white;
+}
 
 /* Flexbox Layout */
 section {

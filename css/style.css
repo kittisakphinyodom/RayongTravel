@@ -1,0 +1,29 @@
+/* Reset Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+  
+  /* Typography */
+body {
+      font-family: 'Arial', sans-serif;
+      font-size: 16px;
+      line-height: 1.6;
+      color: #8e03df;
+      background-color: #0ad46f;
+      margin: 0;
+}
+  
+  /* Layout */
+ header {
+      background-color: #3086e0;
+      color: rgb(0, 0, 0);
+      padding: 1rem;
+      text-align: center;
+}
+main {
+    padding: 2rem;
+}
+
+
